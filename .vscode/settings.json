@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.port": 5501,
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#8c00ff",
+        "statusBar.foreground" : "#ffffff",
+        "statusBar.border" : "#000000",
+        "statusBar.noFolderBackground" : "#212121",
+        "statusBar.debuggingBackground": "#263238",
+        "statusBar.debuggingForeground": "#FFFFFF",
+        "statusBar.debuggingBorder": "#000000"
+    }
+}
